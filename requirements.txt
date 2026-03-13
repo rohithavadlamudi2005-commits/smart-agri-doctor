@@ -3,3 +3,6 @@ groq
 pillow
 gtts
 requests
+numpy
+opencv-python-headless
+python-dotenv
